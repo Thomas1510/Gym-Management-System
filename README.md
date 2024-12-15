@@ -79,5 +79,3 @@ The database for the Gym Management System is built using **MySQL** and managed 
 - **Member Dashboard**: Members can log in to view their membership information, schedule, and make payments.
 
 ---
-
-This `README.md` provides a clear, technical overview of the Gym Management System without focusing on advantages but instead detailing the technologies used, installation steps, and features of the system.
